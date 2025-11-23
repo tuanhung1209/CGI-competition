@@ -1,2 +1,3 @@
 submission1 : simple submission for checking if working (0.66819)
-submission2 : use light gbm model cause chatgpt tell is the best for 2018 competition
+submission2 : use light gbm model cause chatgpt tell is the best for 2018 competition (0.66832) current best
+submission3 : add hyperparameter for lightgbm (i hate this so much) (0.6745)
