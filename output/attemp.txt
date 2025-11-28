@@ -5,3 +5,4 @@ submission4 : add skewness fix like in the turorial guide (0.67058) WHY IS THE P
 submission5 : add more feature (14) and use feature engginering (0.74426) 
 submission6 : use optuna for optimum hyperparameter (0.74511) 
 submission7 : should only add k-fold cross valdiation but run again yeild higher score (0.74962) current best
+submission8 : add alot more feature but the score stay the same ? (0.74962)
