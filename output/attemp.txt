@@ -7,3 +7,5 @@ submission6 : use optuna for optimum hyperparameter (0.74511)
 submission7 : should only add k-fold cross valdiation but run again yeild higher score (0.74962) 
 submission8 : add alot more feature but the score stay the same ? (0.74962)
 submission9 : change nan value to the mean value in some collumn (0.75328) current best
+submission10 : add alot more chat gpt feature but seem like overfitting (0.75253)
+submission11 : clean up some feature but seem not to work (0.75252)
