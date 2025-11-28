@@ -3,4 +3,5 @@ submission2 : use light gbm model cause chatgpt tell is the best for 2018 compet
 submission3 : add hyperparameter for lightgbm (i hate this so much) (0.6745)
 submission4 : add skewness fix like in the turorial guide (0.67058) WHY IS THE POINT GOING DOWN 
 submission5 : add more feature (14) and use feature engginering (0.74426) 
-submission6 : use optuna for optimum hyperparameter (0.74511) (current best)
+submission6 : use optuna for optimum hyperparameter (0.74511) 
+submission7 : should only add k-fold cross valdiation but run again yeild higher score (0.74962) current best
